@@ -1,0 +1,46 @@
+.explore li {
+	display: block;
+	font-weight: bold;
+	color: blue;
+}
+
+.new_releases {
+	background-color: #989898;
+}
+
+.new_releases h2 {
+	color: white;
+	text-align: center;
+	}
+
+.new_releases img {
+	height: 400px;
+}
+
+.new_releases p{
+	text-align: center;
+	font-family: 'Shift', sans-serif;
+}
+
+.new_releases a {
+	font-weight: bold;	
+}
+
+.noted_authors {
+	background-color: white;
+}
+
+.noted_authors h2{
+	color: black;
+	text-align: center;
+	font-weight: bold;
+}
+
+.noted_authors img {
+	width: 100px;
+	height: 100px;
+}
+
+.noted_authors .thumbnail {
+	display: inline;
+}
